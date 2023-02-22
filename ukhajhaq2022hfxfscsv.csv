@@ -1,0 +1,181 @@
+﻿HF_code,Healthcare_financing_scheme,FS_Code,Revenues_of_financing,Measure,M_Code,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+HFTOT,All financing schemes,FSTOT,Total revenues of financing schemes,Current prices,CP,65210,69821,74865,78995,84419,91675,101730,110152,117408,127400,133559,144249,156239,160440,165547,170971,176474,184367,188773,195519,201074,210005,222705,257564
+HFTOT,All financing schemes,FS1,Transfers from government domestic revenue,Current prices,CP,49160,52815,57220,60493,65894,73054,80052,88616,95585,103882,109190,117398,126596,129755,133894,137839,141896,148323,151745,158113,161598,168204,178669,215568
+HFTOT,All financing schemes,FS11,Internal transfers and grants,Current prices,CP,48846,52469,56840,60065,65430,72541,79464,88025,94939,103168,108468,116618,125806,128889,132920,136772,140695,147094,150363,156571,159863,166343,176560,213210
+HFTOT,All financing schemes,FS12,Transfers by government on behalf of specific groups,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS13,Subsidies,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS14,Other transfers from government domestic revenue,Current prices,CP,314,345,381,428,463,513,588,590,646,714,722,779,791,865,974,1067,1201,1229,1382,1542,1735,1862,2110,2359
+HFTOT,All financing schemes,FS2,Transfers distributed by government from foreign origin ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS3,Social insurance contributions,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS4,Compulsory prepayment (other than FS.3),Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS5,Voluntary prepayment,Current prices,CP,2476,2594,2776,3364,3796,3983,4067,4213,4666,4958,5224,5758,5613,5620,5804,5951,6090,6289,6182,5480,5988,6313,6354,5756
+HFTOT,All financing schemes,FS6,Other domestic revenues n.e.c.,Current prices,CP,13570,14407,14862,15131,14723,14631,17602,17316,17147,18550,19135,21082,24018,25053,25835,27166,28472,29738,30826,31904,33463,35461,37651,36205
+HFTOT,All financing schemes,FS61,Other revenues from households n.e.c.,Current prices,CP,12694,13458,13988,14180,13762,13702,16712,16502,16282,17677,18179,20118,23098,24025,24744,26044,27329,28609,29695,30798,32350,34341,36493,35041
+HFTOT,All financing schemes,FS62,Other revenues from corporations n.e.c.,Current prices,CP,843,913,835,906,913,876,830,753,799,799,881,883,838,939,990,1012,1018,1002,987,946,933,927,939,921
+HFTOT,All financing schemes,FS63,Other revenues from NPISH n.e.c.,Current prices,CP,33,36,39,44,48,53,61,61,67,74,75,81,82,90,101,111,124,127,143,160,180,193,219,244
+HFTOT,All financing schemes,FS7,Direct foreign transfers ,Current prices,CP,5,5,5,6,7,7,8,9,9,10,10,11,11,12,14,15,17,18,20,22,25,27,30,34
+HF11,Government schemes,FSTOT,Total revenues of financing schemes,Current prices,CP,48914,52542,56918,60149,65521,72641,79574,88147,95071,103311,108618,116780,125980,129068,133104,136962,140890,147276,150531,156739,160032,166514,176732,213377
+HF11,Government schemes,FS1,Transfers from government domestic revenue,Current prices,CP,48846,52469,56840,60065,65430,72541,79464,88025,94939,103168,108468,116618,125806,128889,132920,136772,140695,147094,150363,156571,159863,166343,176560,213210
+HF11,Government schemes,FS11,Internal transfers and grants,Current prices,CP,48846,52469,56840,60065,65430,72541,79464,88025,94939,103168,108468,116618,125806,128889,132920,136772,140695,147094,150363,156571,159863,166343,176560,213210
+HF11,Government schemes,FS12,Transfers by government on behalf of specific groups,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS13,Subsidies,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS14,Other transfers from government domestic revenue,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS2,Transfers distributed by government from foreign origin ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS3,Social insurance contributions,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS4,Compulsory prepayment (other than FS.3),Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS5,Voluntary prepayment,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS6,Other domestic revenues n.e.c.,Current prices,CP,68,73,79,83,91,101,110,122,132,143,150,162,175,179,184,190,195,183,168,168,169,171,172,167
+HF11,Government schemes,FS61,Other revenues from households n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS62,Other revenues from corporations n.e.c.,Current prices,CP,68,73,79,83,91,101,110,122,132,143,150,162,175,179,184,190,195,183,168,168,169,171,172,167
+HF11,Government schemes,FS63,Other revenues from NPISH n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS7,Direct foreign transfers ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FSTOT,Total revenues of financing schemes,Current prices,CP,2476,2594,2776,3364,3796,3983,4067,4213,4666,4958,5224,5758,5613,5620,5804,5951,6090,6289,6182,5480,5988,6313,6354,5756
+HF21,Voluntary health insurance schemes,FS1,Transfers from government domestic revenue,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS11,Internal transfers and grants,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS12,Transfers by government on behalf of specific groups,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS13,Subsidies,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS14,Other transfers from government domestic revenue,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS2,Transfers distributed by government from foreign origin ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS3,Social insurance contributions,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS4,Compulsory prepayment (other than FS.3),Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS5,Voluntary prepayment,Current prices,CP,2476,2594,2776,3364,3796,3983,4067,4213,4666,4958,5224,5758,5613,5620,5804,5951,6090,6289,6182,5480,5988,6313,6354,5756
+HF21,Voluntary health insurance schemes,FS6,Other domestic revenues n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS61,Other revenues from households n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS62,Other revenues from corporations n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS63,Other revenues from NPISH n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS7,Direct foreign transfers ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FSTOT,Total revenues of financing schemes,Current prices,CP,731,804,886,996,1079,1195,1369,1374,1504,1661,1681,1814,1841,2015,2267,2484,2795,2861,3217,3590,4038,4334,4911,5491
+HF22,NPISH financing schemes,FS1,Transfers from government domestic revenue,Current prices,CP,314,345,381,428,463,513,588,590,646,714,722,779,791,865,974,1067,1201,1229,1382,1542,1735,1862,2110,2359
+HF22,NPISH financing schemes,FS11,Internal transfers and grants,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS12,Transfers by government on behalf of specific groups,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS13,Subsidies,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS14,Other transfers from government domestic revenue,Current prices,CP,314,345,381,428,463,513,588,590,646,714,722,779,791,865,974,1067,1201,1229,1382,1542,1735,1862,2110,2359
+HF22,NPISH financing schemes,FS2,Transfers distributed by government from foreign origin ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS3,Social insurance contributions,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS4,Compulsory prepayment (other than FS.3),Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS5,Voluntary prepayment,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS6,Other domestic revenues n.e.c.,Current prices,CP,413,453,500,562,609,674,773,775,849,937,949,1024,1039,1137,1279,1401,1577,1614,1815,2025,2279,2445,2771,3098
+HF22,NPISH financing schemes,FS61,Other revenues from households n.e.c.,Current prices,CP,366,402,443,498,540,598,685,688,753,831,841,908,921,1008,1135,1243,1399,1432,1610,1797,2021,2169,2458,2748
+HF22,NPISH financing schemes,FS62,Other revenues from corporations n.e.c.,Current prices,CP,14,15,17,19,21,23,26,26,29,32,32,35,35,39,44,48,54,55,62,69,78,83,95,106
+HF22,NPISH financing schemes,FS63,Other revenues from NPISH n.e.c.,Current prices,CP,33,36,39,44,48,53,61,61,67,74,75,81,82,90,101,111,124,127,143,160,180,193,219,244
+HF22,NPISH financing schemes,FS7,Direct foreign transfers ,Current prices,CP,5,5,5,6,7,7,8,9,9,10,10,11,11,12,14,15,17,18,20,22,25,27,30,34
+HF23,Enterprise financing schemes,FSTOT,Total revenues of financing schemes,Current prices,CP,761,825,739,804,801,752,693,604,638,624,698,686,628,721,762,774,769,764,757,709,686,672,672,648
+HF23,Enterprise financing schemes,FS1,Transfers from government domestic revenue,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS11,Internal transfers and grants,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS12,Transfers by government on behalf of specific groups,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS13,Subsidies,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS14,Other transfers from government domestic revenue,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS2,Transfers distributed by government from foreign origin ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS3,Social insurance contributions,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS4,Compulsory prepayment (other than FS.3),Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS5,Voluntary prepayment,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS6,Other domestic revenues n.e.c.,Current prices,CP,761,825,739,804,801,752,693,604,638,624,698,686,628,721,762,774,769,764,757,709,686,672,672,648
+HF23,Enterprise financing schemes,FS61,Other revenues from households n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS62,Other revenues from corporations n.e.c.,Current prices,CP,761,825,739,804,801,752,693,604,638,624,698,686,628,721,762,774,769,764,757,709,686,672,672,648
+HF23,Enterprise financing schemes,FS63,Other revenues from NPISH n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS7,Direct foreign transfers ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FSTOT,Total revenues of financing schemes,Current prices,CP,12328,13056,13545,13682,13222,13104,16026,15814,15529,16845,17338,19210,22177,23017,23610,24801,25930,27177,28085,29001,30329,32172,34036,32293
+HF3,Out-of-pocket payments,FS1,Transfers from government domestic revenue,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS11,Internal transfers and grants,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS12,Transfers by government on behalf of specific groups,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS13,Subsidies,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS14,Other transfers from government domestic revenue,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS2,Transfers distributed by government from foreign origin ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS3,Social insurance contributions,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS4,Compulsory prepayment (other than FS.3),Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS5,Voluntary prepayment,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS6,Other domestic revenues n.e.c.,Current prices,CP,12328,13056,13545,13682,13222,13104,16026,15814,15529,16845,17338,19210,22177,23017,23610,24801,25930,27177,28085,29001,30329,32172,34036,32293
+HF3,Out-of-pocket payments,FS61,Other revenues from households n.e.c.,Current prices,CP,12328,13056,13545,13682,13222,13104,16026,15814,15529,16845,17338,19210,22177,23017,23610,24801,25930,27177,28085,29001,30329,32172,34036,32293
+HF3,Out-of-pocket payments,FS62,Other revenues from corporations n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS63,Other revenues from NPISH n.e.c.,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS7,Direct foreign transfers ,Current prices,CP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FSTOT,Total revenues of financing schemes,Real terms,KP,106536,112272,118838,123298,129308,137533,148606,156831,162135,171142,174529,182653,194528,197001,199091,202376,204393,210172,214123,217640,219866,225130,234063,257564
+HFTOT,All financing schemes,FS1,Transfers from government domestic revenue,Real terms,KP,80314,84926,90829,94420,100932,109598,116939,126168,131999,139549,142684,148653,157621,159323,161024,163158,164344,169083,172123,176002,176701,180318,187781,215568
+HFTOT,All financing schemes,FS11,Internal transfers and grants,Real terms,KP,79801,84371,90225,93752,100222,108827,116080,125327,131106,138590,141740,147666,156637,158260,159852,161895,162953,167682,170555,174286,174804,178323,185564,213210
+HFTOT,All financing schemes,FS12,Transfers by government on behalf of specific groups,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS13,Subsidies,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS14,Other transfers from government domestic revenue,Real terms,KP,513,555,604,668,710,770,859,841,892,959,944,987,985,1063,1171,1263,1390,1401,1568,1716,1897,1996,2217,2359
+HFTOT,All financing schemes,FS2,Transfers distributed by government from foreign origin ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS3,Social insurance contributions,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS4,Compulsory prepayment (other than FS.3),Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HFTOT,All financing schemes,FS5,Voluntary prepayment,Real terms,KP,4045,4172,4407,5251,5815,5975,5942,5998,6444,6661,6826,7291,6989,6900,6980,7044,7053,7169,7013,6100,6548,6768,6678,5756
+HFTOT,All financing schemes,FS6,Other domestic revenues n.e.c.,Real terms,KP,22169,23166,23592,23617,22551,21949,25713,24653,23680,24918,25005,26695,29904,30762,31070,32156,32976,33900,34965,35513,36590,38015,39571,36205
+HFTOT,All financing schemes,FS61,Other revenues from households n.e.c.,Real terms,KP,20739,21640,22204,22133,21080,20556,24412,23495,22484,23746,23756,25475,28758,29500,29758,30828,31653,32613,33683,34283,35374,36814,38355,35041
+HFTOT,All financing schemes,FS62,Other revenues from corporations n.e.c.,Real terms,KP,1377,1469,1325,1415,1398,1314,1212,1071,1103,1073,1151,1118,1043,1152,1191,1197,1179,1142,1120,1053,1020,994,987,921
+HFTOT,All financing schemes,FS63,Other revenues from NPISH n.e.c.,Real terms,KP,53,58,63,69,74,80,89,87,92,99,98,102,102,110,121,131,144,145,162,178,197,207,230,244
+HFTOT,All financing schemes,FS7,Direct foreign transfers ,Real terms,KP,7,8,9,10,10,11,12,12,13,14,14,14,14,15,17,18,20,20,23,25,27,29,32,34
+HF11,Government schemes,FSTOT,Total revenues of financing schemes,Real terms,KP,79912,84488,90351,93882,100361,108978,116241,125501,131288,138782,141937,147871,156854,158480,160074,162120,163180,167890,170746,174472,174989,178506,185745,213377
+HF11,Government schemes,FS1,Transfers from government domestic revenue,Real terms,KP,79801,84371,90225,93752,100222,108827,116080,125327,131106,138590,141740,147666,156637,158260,159852,161895,162953,167682,170555,174286,174804,178323,185564,213210
+HF11,Government schemes,FS11,Internal transfers and grants,Real terms,KP,79801,84371,90225,93752,100222,108827,116080,125327,131106,138590,141740,147666,156637,158260,159852,161895,162953,167682,170555,174286,174804,178323,185564,213210
+HF11,Government schemes,FS12,Transfers by government on behalf of specific groups,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS13,Subsidies,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS14,Other transfers from government domestic revenue,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS2,Transfers distributed by government from foreign origin ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS3,Social insurance contributions,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS4,Compulsory prepayment (other than FS.3),Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS5,Voluntary prepayment,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS6,Other domestic revenues n.e.c.,Real terms,KP,111,117,125,130,139,151,161,174,182,192,197,205,217,220,222,225,226,208,191,187,185,184,181,167
+HF11,Government schemes,FS61,Other revenues from households n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS62,Other revenues from corporations n.e.c.,Real terms,KP,111,117,125,130,139,151,161,174,182,192,197,205,217,220,222,225,226,208,191,187,185,184,181,167
+HF11,Government schemes,FS63,Other revenues from NPISH n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF11,Government schemes,FS7,Direct foreign transfers ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FSTOT,Total revenues of financing schemes,Real terms,KP,4045,4172,4407,5251,5815,5975,5942,5998,6444,6661,6826,7291,6989,6900,6980,7044,7053,7169,7013,6100,6548,6768,6678,5756
+HF21,Voluntary health insurance schemes,FS1,Transfers from government domestic revenue,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS11,Internal transfers and grants,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS12,Transfers by government on behalf of specific groups,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS13,Subsidies,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS14,Other transfers from government domestic revenue,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS2,Transfers distributed by government from foreign origin ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS3,Social insurance contributions,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS4,Compulsory prepayment (other than FS.3),Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS5,Voluntary prepayment,Real terms,KP,4045,4172,4407,5251,5815,5975,5942,5998,6444,6661,6826,7291,6989,6900,6980,7044,7053,7169,7013,6100,6548,6768,6678,5756
+HF21,Voluntary health insurance schemes,FS6,Other domestic revenues n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS61,Other revenues from households n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS62,Other revenues from corporations n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS63,Other revenues from NPISH n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF21,Voluntary health insurance schemes,FS7,Direct foreign transfers ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FSTOT,Total revenues of financing schemes,Real terms,KP,1195,1292,1406,1554,1653,1793,2000,1957,2078,2231,2197,2297,2292,2474,2727,2940,3237,3262,3650,3996,4416,4646,5161,5491
+HF22,NPISH financing schemes,FS1,Transfers from government domestic revenue,Real terms,KP,513,555,604,668,710,770,859,841,892,959,944,987,985,1063,1171,1263,1390,1401,1568,1716,1897,1996,2217,2359
+HF22,NPISH financing schemes,FS11,Internal transfers and grants,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS12,Transfers by government on behalf of specific groups,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS13,Subsidies,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS14,Other transfers from government domestic revenue,Real terms,KP,513,555,604,668,710,770,859,841,892,959,944,987,985,1063,1171,1263,1390,1401,1568,1716,1897,1996,2217,2359
+HF22,NPISH financing schemes,FS2,Transfers distributed by government from foreign origin ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS3,Social insurance contributions,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS4,Compulsory prepayment (other than FS.3),Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS5,Voluntary prepayment,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF22,NPISH financing schemes,FS6,Other domestic revenues n.e.c.,Real terms,KP,674,729,794,877,932,1012,1129,1104,1172,1259,1240,1296,1293,1396,1539,1659,1826,1840,2059,2255,2492,2621,2912,3098
+HF22,NPISH financing schemes,FS61,Other revenues from households n.e.c.,Real terms,KP,598,647,704,778,827,898,1001,979,1040,1117,1100,1150,1147,1238,1365,1471,1620,1632,1827,2000,2210,2325,2583,2748
+HF22,NPISH financing schemes,FS62,Other revenues from corporations n.e.c.,Real terms,KP,23,25,27,30,32,35,39,38,40,43,42,44,44,48,52,57,62,63,70,77,85,89,99,106
+HF22,NPISH financing schemes,FS63,Other revenues from NPISH n.e.c.,Real terms,KP,53,58,63,69,74,80,89,87,92,99,98,102,102,110,121,131,144,145,162,178,197,207,230,244
+HF22,NPISH financing schemes,FS7,Direct foreign transfers ,Real terms,KP,7,8,9,10,10,11,12,12,13,14,14,14,14,15,17,18,20,20,23,25,27,29,32,34
+HF23,Enterprise financing schemes,FSTOT,Total revenues of financing schemes,Real terms,KP,1243,1327,1173,1255,1227,1128,1012,860,881,838,912,869,782,885,916,916,891,871,859,789,750,720,706,648
+HF23,Enterprise financing schemes,FS1,Transfers from government domestic revenue,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS11,Internal transfers and grants,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS12,Transfers by government on behalf of specific groups,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS13,Subsidies,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS14,Other transfers from government domestic revenue,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS2,Transfers distributed by government from foreign origin ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS3,Social insurance contributions,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS4,Compulsory prepayment (other than FS.3),Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS5,Voluntary prepayment,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS6,Other domestic revenues n.e.c.,Real terms,KP,1243,1327,1173,1255,1227,1128,1012,860,881,838,912,869,782,885,916,916,891,871,859,789,750,720,706,648
+HF23,Enterprise financing schemes,FS61,Other revenues from households n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS62,Other revenues from corporations n.e.c.,Real terms,KP,1243,1327,1173,1255,1227,1128,1012,860,881,838,912,869,782,885,916,916,891,871,859,789,750,720,706,648
+HF23,Enterprise financing schemes,FS63,Other revenues from NPISH n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF23,Enterprise financing schemes,FS7,Direct foreign transfers ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FSTOT,Total revenues of financing schemes,Real terms,KP,20141,20993,21500,21355,20253,19658,23411,22515,21445,22629,22656,24325,27611,28262,28393,29356,30033,30980,31857,32283,33164,34489,35771,32293
+HF3,Out-of-pocket payments,FS1,Transfers from government domestic revenue,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS11,Internal transfers and grants,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS12,Transfers by government on behalf of specific groups,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS13,Subsidies,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS14,Other transfers from government domestic revenue,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS2,Transfers distributed by government from foreign origin ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS3,Social insurance contributions,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS4,Compulsory prepayment (other than FS.3),Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS5,Voluntary prepayment,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS6,Other domestic revenues n.e.c.,Real terms,KP,20141,20993,21500,21355,20253,19658,23411,22515,21445,22629,22656,24325,27611,28262,28393,29356,30033,30980,31857,32283,33164,34489,35771,32293
+HF3,Out-of-pocket payments,FS61,Other revenues from households n.e.c.,Real terms,KP,20141,20993,21500,21355,20253,19658,23411,22515,21445,22629,22656,24325,27611,28262,28393,29356,30033,30980,31857,32283,33164,34489,35771,32293
+HF3,Out-of-pocket payments,FS62,Other revenues from corporations n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS63,Other revenues from NPISH n.e.c.,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF3,Out-of-pocket payments,FS7,Direct foreign transfers ,Real terms,KP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
